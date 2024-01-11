@@ -9,7 +9,7 @@ title: Experience
 - Attending on full tuition scholarship
 
 ## Work
-- Techincal Lead for the [Immersive Cybersecurity Experience](https://cybercamps.byu.edu/immersive-cybersecurity-experience-ice) (October '22 - current)
+- Technical Lead for the [Immersive Cybersecurity Experience](https://cybercamps.byu.edu/immersive-cybersecurity-experience-ice) (October '22 - current)
 - Teacher's Assistant for a Web Development & Security class (June '23 - December '23)
 - Code Sensei at Code Ninjas (April '21 - August '22)
 
