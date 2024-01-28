@@ -14,5 +14,8 @@ title: Experience
 - Code Sensei at Code Ninjas (April '21 - August '22)
 
 ## Competitions
-I often compete in various cyber competitions including CTFs and cyber defense competitions. I am an active member of the BYU CCDC team and contributor to our [public team resources](https://github.com/BYU-CCDC/public-ccdc-resources). I also compete regularly with the BYU Cyberia CTF team on [CTFtime](https://ctftime.org/team/155711) and in other CTFs individually.
-
+- 2nd place team in 2023 NCAE regional
+- 4th place team in the Fall 2023 National Cyber League (NCL) Team Game- Experienced Students Bracket
+- Active member of the 2024 BYU CCDC team and contributor to the [public team resources](https://github.com/BYU-CCDC/public-ccdc-resources)
+- Frequent competitor on the [BYU Cyberia CTF team](https://ctftime.org/team/155711) in various public CTFs
+- And many more to come :)
