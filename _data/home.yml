@@ -5,9 +5,6 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: experience
-    url: experience
-
   - title: connect
     url: connect
 

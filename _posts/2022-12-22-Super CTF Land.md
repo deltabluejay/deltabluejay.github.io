@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Super CTF Land
-tags: [writeup, misc]
+tags: [writeup, misc, BYU CTF]
 ---
 
 ## Description
+This challenge is from the internal BYU End-of-Semester CTF (Fall 2022).
+
 ```
 Welcome to Super CTF Land, the first custom BYU CTF retro game! It looks like someone may have hacked the ROM and left behind a secret. Give it a play and see if you can find that secret!
 ```
