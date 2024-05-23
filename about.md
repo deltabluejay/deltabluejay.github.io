@@ -5,14 +5,9 @@ title: About Me
 
 <img src="/assets/images/deltabluejay.jpg" alt="My logo" title="My logo" width="150" style="float: right; margin-left: 1em;"/>
 
-I'm a student at Brigham Young University pursuing an undergraduate degree in cybersecurity. I am extremely passionate about my field of study and am always looking for chances to learn more. I enoy the thrill of being challenged, especially through CTFs and other cybersecurity competitions. I love cybersecurity because it is always changing and there's always more to learn to keep me on my feet and because it encourages thinking outside the box to solve (or find) problems.
+I'm Ava Petersen, a student at Brigham Young University pursuing an undergraduate degree in cybersecurity. I am extremely passionate about my field of study, and I love the fast-paced and creative aspect of the field which keeps me on my feet and encourages thinking outside the box to solve (or find) problems. Whether through my competitions, research, or work, I am always being challenged in new and exciting ways.
 
 You'll find me everywhere in the cybersecurity competition space under the handle "deltabluejay" and on the BYU Cyberia team.
-
-## Work
-- Research Assistant in the [IMMERSE](https://immerse.byu.edu/) program (April '24 - current)
-- Technical Lead for the [Immersive Cybersecurity Experience](https://cybercamps.byu.edu/immersive-cybersecurity-experience-ice) (October '22 - current)
-- Teaching Assistant for Web Development & Security class ([IT&C 210A](https://catalog.byu.edu/courses/11325-001)/[210B](https://catalog.byu.edu/courses/11326-001)) (June '23 - December '23)
 
 ## Competitions
 - National Cyber League (NCL)- Experienced Students bracket
@@ -27,3 +22,14 @@ You'll find me everywhere in the cybersecurity competition space under the handl
 - [3rd place team](https://twitter.com/eCitadelOpen/status/1792601179018637789) in the 2024 [eCitadel](https://ecitadel.org/) competition
 - 2nd place team in 2023 [NCAE Cyber Games](https://www.ncaecybergames.org) regional competition
 - Member of the [BYU Cyberia CTF team](https://ctftime.org/team/155711) ranked in the top 20 nationally
+
+## Research
+- Researcher in the [BYU Cybersecurity Research Lab](https://csrl.byu.edu/) during the Winter 2024 semester
+- Performed vulnerability research on a small team of students to hack into a SOHO router
+- Found and documented vulnerabilities before reporting them to the manufacturer
+- Currently continuing the project as we guide the company while they create fixes before filing for and disclosing our CVEs publicly
+
+## Work
+- Research Assistant in the [IMMERSE](https://immerse.byu.edu/) program (April '24 - current)
+- Technical Lead for the [Immersive Cybersecurity Experience](https://cybercamps.byu.edu/immersive-cybersecurity-experience-ice) (October '22 - current)
+- Teaching Assistant for Web Development & Security class ([IT&C 210A](https://catalog.byu.edu/courses/11325-001)/[210B](https://catalog.byu.edu/courses/11326-001)) (June '23 - December '23)

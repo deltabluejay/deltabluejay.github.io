@@ -1,8 +1,8 @@
-title: deltabluejay
+title: Ava Petersen
 author: Ava Petersen
 url: https://deltabluejay.me # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This is my site where I publish writeups on CTF problems I've done and projects I'm working on.
+  Explore my blog for the occasional post on favorite CTF challenges I've solved and cool projects I'm working on.
 
 permalink: /:slug
 
