@@ -24,12 +24,13 @@ You'll find me everywhere in the cybersecurity competition space under the handl
 - Member of the [BYU Cyberia CTF team](https://ctftime.org/team/155711) ranked in the top 20 nationally
 
 ## Research
-- Researcher in the [BYU Cybersecurity Research Lab](https://csrl.byu.edu/) during the Winter 2024 semester
+- Researcher in the [BYU Cybersecurity Research Lab](https://csrl.byu.edu/) starting January 2024
 - Performed vulnerability research on a small team of students to hack into a SOHO router
-- Found and documented vulnerabilities before reporting them to the manufacturer
-- Currently continuing the project as we guide the company while they create fixes before filing for and disclosing our CVEs publicly
+- Found and documented vulnerabilities before reporting them to the company
+- Currently in contact with the company as they are in the process of deploying patches
+- Contributer to 9 CVEs (not yet public)
+- Speaker at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-creator-talks.html#54654)
+- Speaker at SAINTCON 2024
 
 ## Work
-- Research Assistant in the [IMMERSE](https://immerse.byu.edu/) program (April '24 - current)
-- Technical Lead for the [Immersive Cybersecurity Experience](https://cybercamps.byu.edu/immersive-cybersecurity-experience-ice) (October '22 - current)
-- Teaching Assistant for Web Development & Security class ([IT&C 210A](https://catalog.byu.edu/courses/11325-001)/[210B](https://catalog.byu.edu/courses/11326-001)) (June '23 - December '23)
+- See [LinkedIn](https://www.linkedin.com/in/ava-petersen/)
