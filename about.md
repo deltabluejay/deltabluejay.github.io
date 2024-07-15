@@ -28,7 +28,7 @@ You'll find me everywhere in the cybersecurity competition space under the handl
 - Performed vulnerability research on a small team of students to hack into a SOHO router
 - Found and documented vulnerabilities before reporting them to the company
 - Currently in contact with the company as they are in the process of deploying patches
-- Contributer to 9 CVEs (not yet public)
+- Contributor to 9 CVEs (not yet public)
 - Speaker at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-creator-talks.html#54654)
 - Speaker at SAINTCON 2024
 
