@@ -12,12 +12,15 @@ project_entries:
   - title: CTF Challenges
     url: projects/challenges
     desc: Challenges I write for a variety of CTFs
-    highlight: WIP
 
   - title: Homelab
     url: projects/homelab
     desc: My personal homelab
     highlight: WIP
+  
+  - title: My Linux Configuration
+    url: https://github.com/deltabluejay/linux-config
+    desc: Configuration files for my daily drive setup
 
 old_project_entries:
   - title: placeholder_title
