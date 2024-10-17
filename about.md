@@ -29,8 +29,8 @@ You'll find me everywhere in the cybersecurity competition space under the handl
     - Performed vulnerability research on a small team of students to hack into a SOHO router
     - Found and documented vulnerabilities before reporting them to the company
     - Contributor to public research [report](https://github.com/byu-cybersecurity-research/vilo) and 9 CVEs (not yet public)
-- Speaker for IoT Village at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-creator-talks.html#54654) (link to recording coming soon)
-- Speaker at SAINTCON 2024
+- Spoke about this project for IoT Village at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-creator-talks.html#54654) ([YouTube](https://youtu.be/IyInMgXj4k4)) and at SAINTCON 2024
+- Currently performing research on a popular smart camera
 
 ## Work
 - See [LinkedIn](https://www.linkedin.com/in/ava-petersen/)
