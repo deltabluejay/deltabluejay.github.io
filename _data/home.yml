@@ -9,14 +9,17 @@ navbar_entries:
     url: connect
 
 project_entries:
+  - title: Vulnerability Research
+    url: projects/research
+    desc: Hacking into IoT devices
+
+  - title: CCDC Team Scripts
+    url: https://github.com/BYU-CCDC/public-ccdc-resources/blob/main/splunk_setup/splunk.sh
+    desc: Scripts for automating defensive operations and creating a portable SOC
+  
   - title: CTF Challenges
     url: projects/challenges
     desc: Challenges I write for a variety of CTFs
-
-  - title: Homelab
-    url: projects/homelab
-    desc: My personal homelab
-    highlight: WIP
   
   - title: My Linux Configuration
     url: https://github.com/deltabluejay/linux-config

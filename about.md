@@ -25,12 +25,7 @@ You'll find me everywhere in the cybersecurity competition space under the handl
 - Member of [BYU Cyberia](https://ctftime.org/team/155711) CTF team ranked in the top 20 nationally
 
 ## Research
-- Researcher in the [BYU Cybersecurity Research Lab](https://csrl.byu.edu/) starting January 2024
-    - Performed vulnerability research on a small team of students to hack into a SOHO router
-    - Found and documented vulnerabilities before reporting them to the company
-    - Contributor to public research [report](https://github.com/byu-cybersecurity-research/vilo) and 9 CVEs (not yet public)
-- Spoke about this project for IoT Village at [DEF CON 32](https://defcon.org/html/defcon-32/dc-32-creator-talks.html#54654) ([YouTube](https://youtu.be/IyInMgXj4k4)) and at SAINTCON 2024
-- Currently performing research on a popular smart camera
+See [Research](projects/research).
 
 ## Work
-- See [LinkedIn](https://www.linkedin.com/in/ava-petersen/)
+See [LinkedIn](https://www.linkedin.com/in/ava-petersen/)
