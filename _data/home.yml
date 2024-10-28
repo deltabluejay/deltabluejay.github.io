@@ -14,7 +14,7 @@ project_entries:
     desc: Hacking into IoT devices
 
   - title: CCDC Team Scripts
-    url: https://github.com/BYU-CCDC/public-ccdc-resources/blob/main/splunk_setup/splunk.sh
+    url: https://github.com/BYU-CCDC/public-ccdc-resources/
     desc: Scripts for automating defensive operations and creating a portable SOC
   
   - title: CTF Challenges
