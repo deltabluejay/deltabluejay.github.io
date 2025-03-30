@@ -32,7 +32,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ava Petersen
+  name: deltabluejay
   email: deltabluejay@deltabluejay.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -64,7 +64,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 1a762ed5b2e044f0a90f2872591476d4
   fathom:
     id: # fill in your Fathom Site ID
 
