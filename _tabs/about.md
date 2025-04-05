@@ -20,6 +20,7 @@ You'll find me everywhere in the cybersecurity competition space under the handl
     - Specialist in automating Splunk indexer and forwarder configuration with various logging sources (see above for example work)
     - Skilled threat hunter using the above tools to find and kick out red team
 - Member of [BYU Cyberia](https://ctftime.org/team/155711) CTF team ranked in the top 20 nationally
+- 1st place in the 2025 WiCys Conference CTF
 - Many other top finishes in various competitions (Deloitte Mountain West Cyber Challenge, eCitadel Open, WiCys conference CTF, NCAE Cyber Games, etc.)
 
 ## Research
