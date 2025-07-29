@@ -20,7 +20,8 @@ You'll find me everywhere in the cybersecurity competition space under the handl
         - [13th place](https://cyberskyline.com/report/R5AQQYHHTJ9U) in the Spring 2024 Individual Game
 - Member of the [BYU Cyberia](https://ctftime.org/team/155711) CTF team ranked in the top 20 nationally
 - 1st place winner of the 2025 WiCys Conference CTF
-- Many other top finishes in various competitions (Deloitte Mountain West Cyber Challenge, 2024 eCitadel Open, etc.)
+- Many other top finishes in various competitions (Deloitte Mountain West Cyber Challenge, [2024 eCitadel Open](https://x.com/eCitadelOpen/status/1792601179018637789), etc.)
+
 
 ## Research
 - Speaker at [DEF CON 32](https://youtu.be/IyInMgXj4k4?si=SIJoCS57tjtDEBrt) and [SAINTCON 2024](https://youtu.be/TPEaW8JXOAI?si=nhoQv48ARQu_ejEn)
