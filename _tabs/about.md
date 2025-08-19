@@ -8,7 +8,8 @@ I'm a student at Brigham Young University pursuing an undergraduate degree in cy
 You'll find me everywhere in the cybersecurity competition space under the handle "deltabluejay" and on the BYU Cyberia team.
 
 ## Competitions
-- [2nd place](https://www.linkedin.com/posts/embedded-systems-village_defcon-defcon32-embedded-activity-7228884978602819584-ab2L?utm_source=share&utm_medium=member_desktop) at the DEF CON 32 Embedded Systems Village CTF
+- 1st place in the DEF CON 33 Embedded Systems Village CTF
+- [1st place](https://www.linkedin.com/posts/activity-7314328436565557248-swE8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERBLowBXiw3NyUWCeXblmVpibcT4qrch5w) in the 2025 WiCys Conference CTF
 - Co-captain of the high-performing BYU [CCDC](https://www.nationalccdc.org/) team
     - 1st place team at the [2025](https://twitter.com/NationalCCDC/status/1899510639237931011) and [2024](https://x.com/NationalCCDC/status/1766893614062276795) Rocky Mountain CCDC Qualifier and Regional competitions
     - National finalist in the [2025](https://twitter.com/NationalCCDC/status/1916265954037600747) and [2024](https://x.com/NationalCCDC/status/1783607165359399134) National CCDC competitions
@@ -19,9 +20,7 @@ You'll find me everywhere in the cybersecurity competition space under the handl
         - [2nd place](https://cyberskyline.com/report/21PVRHJLX3ML) in the Fall 2024 Team Game
         - [13th place](https://cyberskyline.com/report/R5AQQYHHTJ9U) in the Spring 2024 Individual Game
 - Member of the [BYU Cyberia](https://ctftime.org/team/155711) CTF team ranked in the top 20 nationally
-- 1st place winner of the 2025 WiCys Conference CTF
 - Many other top finishes in various competitions (Deloitte Mountain West Cyber Challenge, [2024 eCitadel Open](https://x.com/eCitadelOpen/status/1792601179018637789), etc.)
-
 
 ## Research
 - Speaker at [DEF CON 32](https://youtu.be/IyInMgXj4k4?si=SIJoCS57tjtDEBrt) and [SAINTCON 2024](https://youtu.be/TPEaW8JXOAI?si=nhoQv48ARQu_ejEn)
