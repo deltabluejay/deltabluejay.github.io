@@ -209,6 +209,7 @@ exclude:
   - README.md
   - LICENSE
   - purgecss.js
+  - "*.config.js"
   - rollup.config.js
   - "package*.json"
 
