@@ -132,5 +132,5 @@ Sometimes, for a variety of reasons, none of the above methods will work. In thi
 
 ## Resources
 Here are some other resources that might be helpful for learning how to use an immutable distro:
-- [What is an immutable Linux distro? HowToGeek](https://www.howtogeek.com/what-is-an-immutable-linux-distro/)
+- [What is an immutable Linux distro? - HowToGeek](https://www.howtogeek.com/what-is-an-immutable-linux-distro/)
 - [Atomic Desktops - Chris Titus Tech](https://youtu.be/1vSFR8bi0YQ?si=By2ViztAGgQUz-gK)
