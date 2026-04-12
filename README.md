@@ -10,3 +10,11 @@ docker-compose up
 This container will detect any changes you make to the website files and automatically refresh the website as needed.
 
 This website uses the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) Jekyll theme. See the [demo website](https://chirpy.cotes.page/) for documentation on how to use it.
+
+## Updating Chirpy
+```shell
+git fetch chirpy
+git tag -l
+git merge vx.x.x
+git push
+```
