@@ -17,7 +17,6 @@ You'll find me everywhere in the cybersecurity competition space under the handl
     - Significant contributor to our [public team resources](https://github.com/BYU-CCDC/public-ccdc-resources)
     - Specialist in threat hunting and Splunk configuration (see above for example work)
 - Member of the [BYU Cyberia](https://ctftime.org/team/155711) CTF team ranked in the top 20 nationally
-- Member of the Season V [US Cyber Team](https://www.uscybergames.com/)
 - Many other top finishes in various competitions (Deloitte Mountain West Cyber Challenge, [2024 eCitadel Open](https://x.com/eCitadelOpen/status/1792601179018637789), etc.)
 
 ## Research
